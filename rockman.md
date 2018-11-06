@@ -29,8 +29,8 @@
 
 str r0, [r5]		;r0 = 020037E0h 数据源地址
 str r1, [r5, 4h]	;r1 = 0600C800h 数据目标地址
-orr r4, r2			;r2 = 000003C0h 数据大小地址
-					;r4 = 84000000h DMA3 Enable 使能
+orr r4, r2		;r2 = 000003C0h 数据大小
+			;r4 = 84000000h DMA3 Enable 使能
 str r4, [r5, 8h]
 ```
 
