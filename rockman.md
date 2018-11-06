@@ -4,7 +4,7 @@
 
 
 
-![](RockMan/3a.png)
+![](Rockman/3a.png)
 
 <div align=center>
     0003 - Battle Network Rockman EXE (J)
